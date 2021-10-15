@@ -1,0 +1,7 @@
+In this project, I designed an SMTP client for a standard mail server using Socket Programming. 
+
+I developed a simple mail client that sends email to any recipient. 
+
+A client is able to connect to a mail server, dialogue with the mail server using the SMTP protocol, and send an email message to the mail server.
+
+For this project, I used the “webmail.buet.ac.bd” mail server, which can only be accessed in the BUET network.
